@@ -1,11 +1,11 @@
-// Require Mongoos and Moment
+// Require Mongoose and dateFormat
 const { Schema, model, Types } = require("mongoose");
 const dateFormat = require("../utils/dateFormat");
 
 // ReactionsSchema
 const ReactionsSchema = new Schema(
   {
-    // Set custom ID
+    // Set custom ID to avoid confusion with parent thoughts _id field
     reactionId: {
       type: Schema.Types.ObjectId,
       default: () => new Types.ObjectId(),
