@@ -28,17 +28,25 @@ NOTE: You must have Node.js to use this application.
 
 ### User Routes
 
+![User Routes](imgs/Users.gif)
+
 Link: https://drive.google.com/file/d/1BXqOsLsx0TcL5gJ9YhUI_LuUmplzGE0Q/view
 
 ### Thought Routes
+
+![Thought Routes](imgs/Thought.gif)
 
 Link: https://drive.google.com/file/d/1XXtZ_5nCLHwscRPFdVuLu6XFvcutKI7C/view
 
 ### Reaction Routes
 
+![Reaction Routes](imgs/Reactions.gif)
+
 Link: https://drive.google.com/file/d/1D46RqUz8UrzwdT-5pnajL-tNFALhgv11/view
 
 ### Friend Routes
+
+![Friend Routes](imgs/Friends.gif)
 
 Link: https://drive.google.com/file/d/1WJtVjK72nuobKB2-keGTpeHYs11B1Gkk/view
 
