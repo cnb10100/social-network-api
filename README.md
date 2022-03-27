@@ -1,4 +1,4 @@
-# social-network-api
+# Social-Network-API
 
 ## Description
 
@@ -6,7 +6,7 @@ This project was created for the University of Toronto Coding BootCamp. This app
 
 ## Usage
 
-Cone the repository, and then navigate to the root. From there, you can run the following commands from the CLI:
+Clone the repository, and then navigate to the root. From there, you can run the following commands from the CLI:
 
 To install dependencies:
 `npm install`
